@@ -1,3 +1,3 @@
 # fort 
 
-## Image footprinting library for spam and detection.
+## Image footprinting library for spam detection.
